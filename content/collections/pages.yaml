@@ -1,0 +1,7 @@
+title: Pages
+template: home
+layout: layout
+revisions: false
+route: '/page/{slug}'
+date: true
+sort_dir: asc
